@@ -7,9 +7,13 @@ public class demo1 {
 	System.out.println("this is the landing page4");
 	System.out.println("this is the landing page5");
 	////2nd guy 
-	System.out.println("this is the landing page3");
-	System.out.println("this is the landing page4");
-	System.out.println("this is the landing page5");
+	System.out.println("this is the landing page6");
+	System.out.println("this is the landing page7");
+	System.out.println("this is the landing page8");
+	//1st guy
+	System.out.println("this is the landing page9");
+	System.out.println("this is the landing page10");
+	System.out.println("this is the landing page11");
 	}
 	
 }
