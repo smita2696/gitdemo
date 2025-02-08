@@ -14,6 +14,10 @@ public class demo1 {
 	System.out.println("this is the landing page9");
 	System.out.println("this is the landing page10");
 	System.out.println("this is the landing page11");
+	//1st guy
+	System.out.println("this is the landing page12");
+	System.out.println("this is the landing page13");
+	System.out.println("this is the landing page14");
 	}
 	
 }
