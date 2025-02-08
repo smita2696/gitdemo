@@ -18,6 +18,10 @@ public class demo1 {
 	System.out.println("this is the landing page12");
 	System.out.println("this is the landing page13");
 	System.out.println("this is the landing page14");
+	//2nd guy
+	System.out.println("this is the landing page15");
+	System.out.println("this is the landing page16");
+	System.out.println("this is the landing page17");
 	}
 	
 }
