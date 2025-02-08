@@ -6,6 +6,10 @@ public class demo1 {
 	System.out.println("this is the landing page3");
 	System.out.println("this is the landing page4");
 	System.out.println("this is the landing page5");
+	////2nd guy 
+	System.out.println("this is the landing page3");
+	System.out.println("this is the landing page4");
+	System.out.println("this is the landing page5");
 	}
 	
 }
